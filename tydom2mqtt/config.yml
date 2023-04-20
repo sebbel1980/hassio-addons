@@ -3,7 +3,7 @@
 ########## GENERAL SETTINGS ######################################################################################################
 name: tydom2mqtt
 image: sebbel1980/tydom2mqtt
-slug: tydom2mqtt
+version: latest
 description: Deltadore Tydom to MQTT Bridge
 arch:
   - armhf
