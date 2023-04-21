@@ -14,7 +14,7 @@ arch:
   - i386
 url: https://github.com/sebbel1980/tydom2mqtt.git
 services:
-  - mqtt:need
+  - mqtt: need
 
 ########## DEFAULT OPTIONS #######################################################################################################
 options:
